@@ -1,0 +1,67 @@
+/*font-family: 'Montserrat', sans-serif;*/
+
+body{
+	font-family: 'Montserrat', sans-serif;
+}
+
+
+/*...Header Start...*/
+
+header{
+   /* background-color: lightblue;*/
+}
+
+.menu ul li a{
+	padding: 0 35px !important;
+	font-size:15px ;
+	font-weight:500 ;
+	color: #1e1e1e !important;
+	transition: 0.3s;
+}
+
+.menu ul li:last-child a {
+    padding-right: 0px !important;   
+}
+
+
+.menu ul li a:hover {
+
+    color: #000000 !important;       
+}
+/*...Header End...*/
+
+/*...Introduction Start...*/
+.into{
+	/*background-color: blue;*/
+}
+.i_text{
+	padding:150px 0 80px;	
+}
+.h1_class{
+	margin-bottom: 25px;
+	font-size:60px;
+	font-weight:800 ;
+	color:#1e1e1e ;	
+}
+.p_class{
+	font-size: 12px;
+	font-weight:500 ;
+	color:#000000 ;	
+}
+.btn_custom{
+	margin-top: 25px;
+	font-size:15px;
+	font-weight:500;
+	color:#1e1e1e ;	
+	width: 182px;
+	height: 50px;
+	background-color: #ffe100;
+	color:#1e1e1e;
+}
+.i_image{
+	padding:90px 0 80px;
+}
+/*...Introduction End...*/
+
+
+

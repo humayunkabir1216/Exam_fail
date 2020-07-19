@@ -1,0 +1,181 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+
+	.newest{
+		
+	}
+
+/*...Menu Start...*/	
+	.menu ul li a {
+    padding: 0 0!important;
+    font-size: 12px;
+    text-align: right;
+    }
+/*...Menu End...*/
+
+/*...Introduction Start...*/
+	.i_text{
+	padding:75px 0 45px;	
+	}	
+
+	.i_image{
+	padding:0px 0 80px;
+}
+ 
+
+	.h1_class{
+		margin-bottom: 15px;
+		font-size:30px;
+		font-weight:800 ;
+		color:#1e1e1e ;	
+	}
+
+	.p_class{
+	font-size: 10px;
+	font-weight:500 ;
+	color:#000000 ;	
+	}
+
+	.btn_custom{
+	margin-top: 6px;
+	font-size:10px;
+	font-weight:500;
+	color:#1e1e1e ;	
+	width: 182px;
+	height: 50px;
+	background-color: #ffe100;
+	color:#1e1e1e;
+	}
+
+/*...Introduction End...*/
+
+ }
+
+/* Small devices (landscape phones, 576px and up)*/
+
+@media (min-width: 576px) and (max-width: 767.98px) { 
+/*...Menu Start...*/	
+	.menu ul li a {
+    padding: 0 0!important;
+    font-size: 12px;
+    text-align: right;
+    }
+/*...Menu End...*/
+/*...Introduction Start...*/	
+	.i_text{
+	padding:75px 0 45px;	
+	}
+
+	.h1_class{
+		margin-bottom: 15px;
+		font-size:30px;
+		font-weight:800 ;
+		color:#1e1e1e ;	
+	}
+
+	.p_class{
+	font-size: 10px;
+	font-weight:500 ;
+	color:#000000 ;	
+	}
+
+	.btn_custom{
+	margin-top: 6px;
+	font-size:10px;
+	font-weight:500;
+	color:#1e1e1e ;	
+	width: 182px;
+	height: 50px;
+	background-color: #ffe100;
+	color:#1e1e1e;
+	}
+
+	.i_image{
+	padding:0px 0 80px;
+}
+/*...Introduction End...*/	
+
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+/*...Introduction Start...*/		
+	.menu ul li a {
+    padding: 0 0!important;
+    font-size: 12px;
+    text-align: right;
+    }
+
+	.i_text{
+	padding:75px 0 45px;	
+	}	
+
+	.i_image{
+	padding:0px 0 80px;
+}
+ 
+
+	.h1_class{
+		margin-bottom: 15px;
+		font-size:30px;
+		font-weight:800 ;
+		color:#1e1e1e ;	
+	}
+
+	.p_class{
+	font-size: 10px;
+	font-weight:500 ;
+	color:#000000 ;	
+	}
+
+	.btn_custom{
+	margin-top: 6px;
+	font-size:10px;
+	font-weight:500;
+	color:#1e1e1e ;	
+	width: 182px;
+	height: 50px;
+	background-color: #ffe100;
+	color:#1e1e1e;
+	}
+/*...Introduction End...*/	
+
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+/*...Introduction Start...*/			
+	.h1_class{
+		margin-bottom: 25px;
+		font-size:50px;
+		font-weight:800 ;
+		color:#1e1e1e ;	
+	}
+
+	.p_class{
+	font-size: 12px;
+	font-weight:500 ;
+	color:#000000 ;	
+	}
+
+	.btn_custom{
+	margin-top: 6px;
+	font-size:15px;
+	font-weight:500;
+	color:#1e1e1e ;	
+	width: 182px;
+	height: 50px;
+	background-color: #ffe100;
+	color:#1e1e1e;
+	}
+/*...Introduction End...*/		
+
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+
+	
+
+
+  }
